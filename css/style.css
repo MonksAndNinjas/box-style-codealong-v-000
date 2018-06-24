@@ -1,6 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script);
-@import url('../images/white-wood.jpg')
+@import url(../images/white-wood.jpg)
+
 /*////////// GLOBAL //////////*/
 
 h3 {
